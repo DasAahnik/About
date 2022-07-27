@@ -8,9 +8,9 @@
 
 # About me
 
- Age - 13 |
- gender - male |
- location - india |
+Age - 13 |
+gender - male |
+location - india |
 
 Artist  
 <!---
