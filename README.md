@@ -8,6 +8,10 @@
 
 ## About me
 
+Age - 13 
+gender - male
+location - india
+
 <!---
 DasAahnik/DasAahnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
