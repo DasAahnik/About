@@ -6,7 +6,7 @@
 
 [![Buy me a chocolate at Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L5C7PNO)
 
-## About me
+# About me
 
 Age - 13 
 gender - male
