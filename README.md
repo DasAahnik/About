@@ -8,9 +8,9 @@
 
 # About me
 
- Age - 13 
- gender - male
- location - india
+ Age - 13 |
+ gender - male |
+ location - india |
 
 <!---
 DasAahnik/DasAahnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
