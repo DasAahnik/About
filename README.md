@@ -14,7 +14,9 @@ gender - male
 
 location - india 
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=aahnikdas)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=aahnikdas&layout=wide)](https://github.com/gazf/github-readme-twitter)
+
+
 DasAahnik/DasAahnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
